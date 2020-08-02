@@ -37,4 +37,6 @@
 <br />
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersaty&show_icons=true&hide_border=true" />
+<img align="left" alt="codersaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersaty&show_icons=true&hide_border=true" />
+
+<img align="right" alt="codersaty Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersaty&show_icons=true&hide_border=true" />
