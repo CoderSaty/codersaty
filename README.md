@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ### Hi there, I'm Anuranjan Srivastava - [codersaty][] 👋
-=======
-### Hi there, I'm Anuranjan Srivastava - [codersaty][#] 👋
->>>>>>> 1c257efc5e5eb0014794fb3c84f495133026dc7a
+
 
 ## I'm a software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), and a competitive Programmer!
 
@@ -13,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/codersaty]
+[<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][codersaty]
 [<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/codersaty]
 [<img align="left" alt="codersaty | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/codersaty]
 [<img align="left" alt="codersaty | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://facebook.com/codersaty]
