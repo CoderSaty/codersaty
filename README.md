@@ -5,6 +5,7 @@
 <p align="center">
 <img  alt="Profile Photo"  src="https://raw.githubusercontent.com/CoderSaty/codersaty/master/images/profile.jpeg" />
 </p>
+
 - 🔭 I’m currently working on my Portfolio!
 - 🌱 I’m currently learning Competitive Programing and Web Development
 - 👯 I’m looking to collaborate with other Web developers
@@ -36,7 +37,8 @@
 
 <br />
 <br />
-
+<br />
+<br />
 <img align="left" alt="codersaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersaty&show_icons=true&hide_border=true" />
 
 <img align="right" alt="codersaty Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersaty&show_icons=true&hide_border=true" />
