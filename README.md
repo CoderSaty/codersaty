@@ -2,8 +2,9 @@
 
 ## I'm a software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), and a competitive Programmer!
 
-![Developer image](images/profile.jpeg)
-
+<p align="center">
+<img  alt="Profile Photo"  src="https://raw.githubusercontent.com/CoderSaty/codersaty/master/images/profile.jpeg" />
+</p>
 - 🔭 I’m currently working on my Portfolio!
 - 🌱 I’m currently learning Competitive Programing and Web Development
 - 👯 I’m looking to collaborate with other Web developers
