@@ -1,4 +1,4 @@
-### Hi there, I'm Anuranjan Srivastava - [codersaty][website] 👋
+### Hi there, I'm Anuranjan Srivastava - [codersaty][#] 👋
 
 ## I'm a software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), and a competitive Programmer!
 
