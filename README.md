@@ -1,54 +1,110 @@
-### Hi there, I'm Anuranjan Srivastava - codersaty 👋 👨🏽‍💻
-
-## I'm a software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), and a competitive Programmer!
-
 <p align="center">
-<img  alt="Profile Photo"  src="https://raw.githubusercontent.com/CoderSaty/codersaty/master/images/profile.jpeg" />
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-- 🔭 I’m currently working on my Portfolio!
-- 🌱 I’m currently learning Competitive Programing and Web Development
-- 👯 I’m looking to collaborate with other Web developers
-- 🥅 2020 Goals: Become specialist at codeforces and complete my portfolio
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anuranjan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-### Connect with me:
+<p><em> SDE@Media.net <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-[<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/codersaty)
-[<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/codersaty)
-[<img align="left" alt="codersaty | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/codersaty)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/codersaty)
-
-<br />
-
-### My Cp Handles:
-[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/codersati)
-[<img align="left" alt="codersaty | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />](https://codeforces.com/profile/codersaty)
-[<img align="left" alt="codersaty | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/anuranjansatyam?hr_r=1)
-[<img align="left" alt="codersaty | Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />](https://www.hackerearth.com/@codersaty)
-
-<br />
+<p><em>CS Graduated from <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> 
+</em></p>
 
 
+[![Twitter: coderaky](https://img.shields.io/twitter/follow/codersaty?style=social)](https://twitter.com/codersaty)
+[![Linkedin: coderaky](https://img.shields.io/badge/-codersaty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/codersaty/)](https://www.linkedin.com/in/codersaty/)
+[![GitHub coderaky](https://img.shields.io/github/followers/codersaty?label=follow&style=social)](https://github.com/codersaty)
 
-### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="c language" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/c/c.png" />
-<img align="left" alt="c++ language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+I'm passionate about writing code, solving problems, Data Structures and Algorithms, and building software that solves real-world problems.
 
-<br />
-<br />
-<br />
-<br />
-<img align="left" alt="codersaty's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersaty&show_icons=true&hide_border=true&count_private=true" />
+- 🔭 I’m SDE@ Media.net 
+- 📚 I Graduated in CS from MMMUT.
+- 👯 I’m up for software development Roles and freelance work.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/codersaty) [Gmail](mailto:sde.anuranjan@gmail.com)
 
-<img align="right" alt="codersaty Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersaty&show_icons=true&hide_border=true" />
+**<a href="https://codersaty.github.io/Portfolio/" target="_blank">`portofolio`</a>**
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersaty" alt="codersaty" /> </p>
+
+</br>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+  ![PYTHON](https://img.shields.io/badge/-python-000000?style=for-the-badge&logo=python)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff)
+  ![ExpressJS](https://img.shields.io/badge/-Express.js-787878?style=flat)
+  ![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white)
+  ![Spring](https://img.shields.io/badge/-Spring-F29111?style=flat&logo=spring&logoColor=FFFFFF)
+  ![SpringBoot](https://img.shields.io/badge/-SpringBoot-F29111?style=flat&logo=springboot&logoColor=FFFFFF)
+  ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+  ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
+  ![Redis](https://img.shields.io/badge/-Redis-F29111?style=flat&logo=redis&logoColor=FFFFFF)
+  ![Aerospike](https://img.shields.io/badge/-Aerospike-F29111?style=flat&logo=aerospike&logoColor=FFFFFF)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Docker](https://img.shields.io/badge/-Docker-gray?style=flat&logo=docker&link=https://github.com/BRdhanani)
+  ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntellijIDEA-gray?style=flat&logo=intellijidea&link=https://github.com/BRdhanani)
+  ![Postman](https://img.shields.io/badge/-postman-gray?style=flat&logo=postman&link=https://github.com/BRdhanani)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-F29111?style=flat&logo=jenkins&logoColor=FFFFFF)
+  ![Maven](https://img.shields.io/badge/-Maven-F29111?style=flat&logo=maven&logoColor=FFFFFF)
+
+<br/>
+
+<h1 align="left"> 📊 &nbsp;Git Stats</h1>
+</br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codersaty&show_icons=true&theme=radical" alt="codersaty" />
+
+</br>
+<h1 align="center">
+✨ Where you can find me ✨
+
+<p align="center">
+  <br/>
+  <a href="https://www.linkedin.com/in/codersaty/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/codersaty">
+    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+  </a>
+
+
+  <br/>
+ 
+ 
+  <a href="https://www.instagram.com/srivastava_anuranjan">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://twitter.com/codersaty">
+    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  </a>
+ 
+</p>
+</h1>
+
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
