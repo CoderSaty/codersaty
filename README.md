@@ -13,9 +13,9 @@ I'm passionate about writing code, solving problems, Data Structures and Algorit
 - 👯 I’m up for software development Roles and freelance work.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/codersaty) [Gmail](mailto:sde.anuranjan@gmail.com)
 
-**<a href="https://codersaty.github.io/Portfolio/" target="_blank">`portofolio`</a>**
+<!--**<a href="https://codersaty.github.io/Portfolio/" target="_blank">`portofolio`</a>**
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersaty" alt="codersaty" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersaty" alt="codersaty" /> </p>-->
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
